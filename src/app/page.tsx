@@ -299,21 +299,6 @@ export default function Home() {
               <li>Upon termination, your license to use the App ends immediately. Certain sections of these Terms survive termination.</li>
             </ul>
 
-            <h2 className="text-xl font-semibold mt-8">Governing Law; Arbitration; Class Action Waiver</h2>
-            <p>
-              These Terms are governed by the laws of the State of Illinois, USA, without regard to conflict of law rules.
-              You and we agree to resolve any dispute, claim, or controversy arising out of or relating to these Terms or the
-              App by binding arbitration administered by the American Arbitration Association (AAA) under the Consumer
-              Arbitration Rules. The arbitration will be held in Cook County, Illinois, or by video/teleconference when appropriate.
-            </p>
-            <ul className="list-disc pl-6 space-y-2">
-              <li><strong>Class Action Waiver</strong>: Disputes must be brought only in your or our individual capacity and not as a class action.</li>
-              <li><strong>Jury Trial Waiver</strong>: You and we waive any right to a jury trial.</li>
-              <li><strong>Small Claims</strong>: Either party may bring an individual action in small claims court in Cook County, Illinois.</li>
-              <li><strong>Opt‑Out</strong>: You may opt out of arbitration within 30 days of accepting these Terms by emailing a clear notice to <a className="underline" href="mailto:visibrightlabs@gmail.com">visibrightlabs@gmail.com</a>.</li>
-              <li><strong>Injunctive Relief</strong>: Either party may seek temporary or preliminary relief in a court of competent jurisdiction to protect rights pending arbitration.</li>
-            </ul>
-
             <h2 className="text-xl font-semibold mt-8">Miscellaneous</h2>
             <ul className="list-disc pl-6 space-y-2">
               <li><strong>Intellectual Property</strong>: The App and all content are owned by us or our licensors.</li>
