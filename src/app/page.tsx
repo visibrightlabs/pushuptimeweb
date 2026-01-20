@@ -19,6 +19,7 @@ export default function Home() {
               />
             </div>
           </div>
+          
 
           {/* App Store Button */}
           <div className="flex justify-center">
