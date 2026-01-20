@@ -13,7 +13,7 @@ export default function TermsPage() {
           <h2 className="text-xl font-semibold mt-8">Who We Are</h2>
           <p>
             The App is owned and operated by an individual, Mutasim Ibrahim, based in Illinois, USA (“we,” “us,” “our”).
-            Contact: <a className="underline" href="mailto:visibrightlabs@gmail.com">visibrightlabs@gmail.com</a>
+            Contact: <a className="underline" href="mailto:support@pushuptimeapp.com">support@pushuptimeapp.com</a>
           </p>
 
           <h2 className="text-xl font-semibold mt-8">Eligibility and Account</h2>
@@ -110,7 +110,7 @@ export default function TermsPage() {
 
           <h2 className="text-xl font-semibold mt-8">Contact</h2>
           <p>
-            Owner: Mutasim Ibrahim (Illinois, USA) • Email: <a className="underline" href="mailto:visibrightlabs@gmail.com">visibrightlabs@gmail.com</a>
+            Owner: Mutasim Ibrahim (Illinois, USA) • Email: <a className="underline" href="mailto:support@pushuptimeapp.com">support@pushuptimeapp.com</a>
           </p>
         </section>
       </main>

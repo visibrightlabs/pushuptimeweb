@@ -17,7 +17,7 @@ export default function PrivacyPage() {
             <li>Screen Time selections and restrictions are enforced locally on your device.</li>
             <li>We collect basic account, subscription, and limited analytics data to operate the App.</li>
             <li>We do not sell your personal data.</li>
-            <li>Questions? Email <a className="underline" href="mailto:visibrightlabs@gmail.com">visibrightlabs@gmail.com</a>.</li>
+            <li>Questions? Email <a className="underline" href="mailto:support@pushuptimeapp.com">support@pushuptimeapp.com</a>.</li>
           </ul>
 
           <h2 className="text-xl font-semibold mt-8">Definitions</h2>
@@ -135,7 +135,7 @@ export default function PrivacyPage() {
             <li>Where applicable, exercise privacy rights under your local laws by emailing us.</li>
           </ul>
           <p className="mt-2 text-sm text-neutral-700 dark:text-neutral-300">
-            Requests: <a className="underline" href="mailto:visibrightlabs@gmail.com">visibrightlabs@gmail.com</a>
+            Requests: <a className="underline" href="mailto:support@pushuptimeapp.com">support@pushuptimeapp.com</a>
           </p>
 
           <h2 className="text-xl font-semibold mt-8">Children’s Privacy</h2>
